@@ -30,7 +30,7 @@ This app separates available cars into groups from economical to wasteful. The n
 print(p)
 ```
 
-<img src="figure/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
+<img src="assets/fig/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
 
 ---
     
@@ -48,6 +48,10 @@ For example put the slider to three to select three clusters:
 
 The cars are clustered into three clusters:
 
+Thank you for your attention & have fun!
+wicht
+
 ![](selection_example.png)
 
-Thank you for your attention & have fun!
+---
+
