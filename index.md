@@ -51,6 +51,6 @@ The cars are clustered into three clusters:
 Thank you for your attention & have fun!
 wicht
 
-![](selection_example3.png)
+![](selection_example.png)
 
 
