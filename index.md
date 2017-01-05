@@ -49,7 +49,7 @@ For example put the slider to three to select three clusters:
 The cars are clustered into three clusters:
 
 Thank you for your attention & have fun!
-wicht
+(somehow the image on this slide cannot be displayed on gh pages -.-)
 
 ![](selection_example.png)
 
