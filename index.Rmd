@@ -50,9 +50,10 @@ For example put the slider to three to select three clusters:
 
 The cars are clustered into three clusters:
 
-![](selection_example.png)
-
 Thank you for your attention & have fun!
+wicht
+
+![](selection_example.png)
 
 ---
 
