@@ -53,5 +53,4 @@ wicht
 
 ![](selection_example.png)
 
----
 
