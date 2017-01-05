@@ -53,3 +53,6 @@ The cars are clustered into three clusters:
 ![](selection_example.png)
 
 Thank you for your attention & have fun!
+
+---
+
